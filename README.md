@@ -1,5 +1,5 @@
 
-Android AppShortcuts Sample
+Android Dynamic AppShortcuts Sample
 ===================================
 
 This sample demonstrates how to use the Launcher Shortcuts API introduced in Android 7.1 (API 25).
